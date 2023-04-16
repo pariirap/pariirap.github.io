@@ -2,7 +2,7 @@
 
  
 ## Python 
-+ [numpy cheche](https://github.com/pariirap/pariirap.github.io/blob/master/python/numpy%20cheatsheet.html)
++ [numpy cheche](https://pariirap.github.io/python/numpy%20cheatsheet.html)
 
 
  
