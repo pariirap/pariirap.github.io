@@ -3,6 +3,6 @@
  
 ## Python 
 + [numpy cheche](https://pariirap.github.io/python/numpy%20cheatsheet.html)
-+ [Pytorch](https://pariirap.github.io/pytorch.html)
++ [Pytorch](https://pariirap.github.io/Pytorch.html)
 
  
