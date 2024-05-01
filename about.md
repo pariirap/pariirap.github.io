@@ -7,9 +7,4 @@ comments: false
 ---
 
 I am AI engineer working in search, recommender, chatbot and generative AI application development. 
-Currently working at MITRE corp as a principal AI engineer and architect. Previously worked at startup and Hewlett-Packard as senior principal technologist. 
-
-**contact**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+Currently working at MITRE corp as a principal AI engineer and architect. Previously worked at a search startup and before that at Hewlett-Packard as senior principal technologist. 
