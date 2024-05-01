@@ -2,14 +2,14 @@
 title: Pari Rajaram
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: about page for pari rajaram. working in technology section with focus on AI, ML and NLP.
 comments: false
 ---
 
-Pari Rajaram is working on AI at MITRE. 
+I am AI engineer working in search, recommender, chatbot and generative AI application development. 
+Currently working at MITRE corp as a principal AI engineer and architect. Previously worked at startup and Hewlett-Packard as senior principal technologist. 
 
-
-**contact ✨**
+**contact**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
